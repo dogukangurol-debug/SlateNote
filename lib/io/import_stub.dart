@@ -1,0 +1,3 @@
+class ImportStub {
+  const ImportStub();
+}

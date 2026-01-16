@@ -1,0 +1,3 @@
+class ExportStub {
+  const ExportStub();
+}

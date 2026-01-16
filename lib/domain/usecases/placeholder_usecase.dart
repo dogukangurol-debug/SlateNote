@@ -1,0 +1,3 @@
+class PlaceholderUsecase {
+  const PlaceholderUsecase();
+}

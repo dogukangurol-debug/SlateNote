@@ -1,0 +1,3 @@
+class LocalStorageStub {
+  const LocalStorageStub();
+}

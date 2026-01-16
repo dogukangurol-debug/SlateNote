@@ -1,0 +1,3 @@
+class PlaceholderModel {
+  const PlaceholderModel();
+}

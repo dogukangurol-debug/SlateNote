@@ -1,0 +1,3 @@
+class InkStorageStub {
+  const InkStorageStub();
+}
